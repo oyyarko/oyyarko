@@ -26,7 +26,10 @@ I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
 **My Recent Works**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
 - [Face Recognition & Clustering](https://github.com/oyyarko/Face-Recognition)
+- [Emotion Analysis based on their face patterns](https://github.com/oyyarko/opencv_arko/blob/master/emotion_recognition.ipynb)
 - Chatbot
+- [Object detection upon YOLO](https://github.com/oyyarko/opencv_arko/blob/master/tensorflow_object_detection.ipynb)
+- [Number Plate Detection](https://github.com/oyyarko/object_detection_tensorflow2/blob/master/object_detection_2.ipynb )
 
 **Languages and Tools**
 <br />
