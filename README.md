@@ -12,7 +12,7 @@
   <img align="left" alt="Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 <a href="https://about.me/arvinakori">
-  <img align="left" alt="About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" />
+  <img align="left" alt="About Me" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" />
 </a>
 
 <br />
