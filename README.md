@@ -9,10 +9,10 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@arvinakori">
-  <img align="left" alt="Medium Blog " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+  <img align="left" alt="Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 <a href="https://about.me/arvinakori">
-  <img align="left" alt="Medium Blog " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" />
+  <img align="left" alt="About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" />
 </a>
 
 <br />
@@ -28,13 +28,18 @@
 - Chatbot
 
 **Languages and Tools**
+<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-Libraries | Libraries
+Languages & | Libraries
 ------------ | -------------
-<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" />
-<img align="left" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />
-<img align="left" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
-<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/spark.svg" />
-<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/imagenet.svg" /> | 
+<img align="center" height="80" src="https://img.icons8.com/color/96/000000/python.png" /> | <img align="center" height="50" src="https://hadoop.apache.org/hadoop-logo.jpg" />
+<img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" /> | <img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" />
+<img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" /> | <img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />
+<img align="center" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" /> | <img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
+<img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" /> | <img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/spark.svg" />
+<img align="center" height="50" src="https://github.com/valohai/ml-logos/blob/master/imagenet.svg" /> | <img align="center" height="80" src="https://symbols.getvecta.com/stencil_90/35_opencv.84e0f9b370.svg" />
+
