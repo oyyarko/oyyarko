@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hey there 👋, I'm Arvina Kori!
 
-<!--
-**oyyarko/oyyarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Social Interactions**
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/oyyarko">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arvinakori/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@arvinakori">
+  <img align="left" alt="Medium Blog " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+<a href="https://about.me/arvinakori">
+  <img align="left" alt="Medium Blog " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+**About Me:**
+> I am Arvina Kori, a Data Science aspirant. I am a Machine Learning enthusiast, i love to work with Image Processing. I am doing Computer Engineering from Government Engineering College, Modasa. Currently i am working with different facial applications like Face Recognition, Detection and Clustering.
+> I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
+
+**My Recent Works**
+- [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
+- [Face Recognition & Clustering](https://github.com/oyyarko/Face-Recognition)
+- Chatbot
+
+**Languages and Tools**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+Libraries | Libraries
+------------ | -------------
+<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" />
+<img align="left" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />
+<img align="left" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
+<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" /> | <img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/spark.svg" />
+<img align="left" height="50" src="https://github.com/valohai/ml-logos/blob/master/imagenet.svg" /> | 
