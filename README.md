@@ -17,11 +17,10 @@
 
 <br />
 <br />
-----------
+
 **About Me:**
 I am Arvina Kori, a Data Science aspirant. I am a Machine Learning enthusiast, i love to work with Image Processing. I am doing Computer Engineering from Government Engineering College, Modasa. Currently i am working with different facial applications like Face Recognition, Detection and Clustering.
 I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
-----------
 
 **My Recent Works**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
