@@ -35,6 +35,7 @@ I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
 - Human Pose Estimation
 - Anime Character Generation using GANs
 - Chatbot for Sanskrit
+- Indie Music Generation
 
 **Languages and Tools**
 <br />
