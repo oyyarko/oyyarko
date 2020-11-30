@@ -20,17 +20,17 @@
 
 **About Me:**
 <br />
-I am Arvina Kori, a Data Science aspirant. I am a Machine Learning enthusiast, i love to work with Image Processing. I am doing Computer Engineering from Government Engineering College, Modasa. Currently i am working with different facial applications like Face Recognition, Detection and Clustering.
-I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
+I am Arvina Kori, people call me Arko. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter(just started). I randomly make projects and put it on Github. And yeah i was a Computer Engineering Student, which i have been recently dropped out to work on my own.
+I love to talk about Tech, Startup, Books, Slytherin and i am BLINK.
 
-**My Recent Works**
+**My Machine Learning Projects**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
 - [Face Recognition & Clustering](https://github.com/oyyarko/Face-Recognition)
 - [Emotion Analysis based on their face patterns](https://github.com/oyyarko/opencv_arko/blob/master/emotion_recognition.ipynb)
 - [Object detection upon YOLO](https://github.com/oyyarko/opencv_arko/blob/master/tensorflow_object_detection.ipynb)
 - [Number Plate Detection](https://github.com/oyyarko/object_detection_tensorflow2/blob/master/object_detection_2.ipynb )
 
-**Ongoing Projects**
+**Ongoing Projects(Which i left in the mid-way)**
 - Chatbot
 - Human Pose Estimation
 - Anime Character Generation using GANs
@@ -41,6 +41,7 @@ I love to talk about Tech, Startup, Books, Slytherin and Dark Mystery.
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 _Have a Nice day :rainbow:_
