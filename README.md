@@ -20,8 +20,8 @@
 
 **About Me:**
 <br />
-I am Arvina Kori, people call me Arko. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter(just started). I randomly make projects and put it on Github. And yeah i was a Computer Engineering Student, which i have been recently dropped out to work on my own.
-I love to talk about Tech, Startup, Books, Slytherin and i am BLINK.
+I am Arvina Kori, people call me Arko. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter(just started). I randomly make projects and put it on Github. And yeah i am a dropout student of Computer Engineering.
+I love to talk about Tech, Startup, Stocks, Business, Books, Slytherin and i am BLINK.
 
 **My Machine Learning Projects**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
@@ -30,7 +30,7 @@ I love to talk about Tech, Startup, Books, Slytherin and i am BLINK.
 - [Object detection upon YOLO](https://github.com/oyyarko/opencv_arko/blob/master/tensorflow_object_detection.ipynb)
 - [Number Plate Detection](https://github.com/oyyarko/object_detection_tensorflow2/blob/master/object_detection_2.ipynb )
 
-**Ongoing Projects(Which i left in the mid-way)**
+**Projects(Which i left in the mid-way)**
 - Chatbot
 - Human Pose Estimation
 - Anime Character Generation using GANs
