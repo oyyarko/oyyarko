@@ -20,7 +20,7 @@
 
 **About Me:**
 <br />
-I am Arvina Kori, people call me Arko. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter(just started). I randomly make projects and put it on Github. And yeah i am a dropout student of Computer Engineering.
+I am Arvina Kori, people call me Arko. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter(just started). I randomly make projects and put it on Github.
 I love to talk about Tech, Startup, Stocks, Business, Books, Slytherin and i am BLINK.
 
 **My Machine Learning Projects**
