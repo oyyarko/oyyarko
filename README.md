@@ -30,12 +30,20 @@ I love to talk about Tech, Startup, Stocks, Business, Books, Slytherin and i am 
 - [Object detection upon YOLO](https://github.com/oyyarko/opencv_arko/blob/master/tensorflow_object_detection.ipynb)
 - [Number Plate Detection](https://github.com/oyyarko/object_detection_tensorflow2/blob/master/object_detection_2.ipynb )
 
-**Projects(Which i left in the mid-way)**
+**Other Projects**
 - Chatbot
 - Human Pose Estimation
 - Anime Character Generation using GANs
 - Chatbot for Sanskrit
 - Indie Music Generation
+
+**Flutter apps**
+- Todo App
+- Grocery Store
+- Ecommerce App
+- Payment Gateway
+- Simple Profile + Admin Dashboard(Flutter app + Flutter web)
+
 
 **Languages and Tools**
 <br />
@@ -49,7 +57,9 @@ I love to talk about Tech, Startup, Stocks, Business, Books, Slytherin and i am 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code><code><img height="40" src="https://github.com/iiiypuk/rpi-icon/blob/master/650.png"></code>
+
+
 
 _Have a Nice day :rainbow:_
 <br />
