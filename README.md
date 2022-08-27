@@ -20,8 +20,7 @@
 
 **About Me:**
 <br />
-I am Arvina Kori. I have worked in Data science, Machine learning, Deep Learning, React Native, Flutter, Raspberry pi(just started). I randomly make projects and put it on Github.
-I love to talk about Tech, Startup, Stocks, Business, Books, Slytherin and i am BLINK.
+I am Arvina Kori. Corrently i am a working as frontend developer with ReactJs technology. Looking forward to learn more about full stack development. 
 
 **My Machine Learning Projects**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
