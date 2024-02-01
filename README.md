@@ -27,6 +27,7 @@ I am Arvina Kori. Corrently i am a working as frontend developer with ReactJs te
 
 **Frontend Projects**
 - [Responsive Preview Card using React+Tailwind](https://blog-preview-card--lustrous-semifreddo-a42e47.netlify.app/)
+- [Login Page with Particles in Background](https://master--jolly-granita-5699cb.netlify.app/)
 
 **My Machine Learning Projects**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
