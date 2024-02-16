@@ -23,11 +23,14 @@
 
 **About Me:**
 <br />
-I am Arvina Kori. Corrently i am a working as frontend developer with ReactJs technology. Looking forward to learn more about full stack development. 
+I am Arvina Kori. Currently i am a working as frontend developer with ReactJs technology. Looking forward to learn more about full stack development. 
 
 **Frontend Projects**
 - [Responsive Preview Card using React+Tailwind](https://blog-preview-card--lustrous-semifreddo-a42e47.netlify.app/)
 - [Login Page with Particles in Background](https://master--jolly-granita-5699cb.netlify.app/)
+- Canvas based board application
+- Live Streaming app using Agora SDK
+- Realtime chat messaging app using Agora SDK
 
 **My Machine Learning Projects**
 - [Covid Face Mask Detection](https://github.com/oyyarko/Covid-face-mask-detection)
@@ -35,11 +38,6 @@ I am Arvina Kori. Corrently i am a working as frontend developer with ReactJs te
 - [Emotion Analysis based on their face patterns](https://github.com/oyyarko/opencv_arko/blob/master/emotion_recognition.ipynb)
 - [Object detection upon YOLO](https://github.com/oyyarko/opencv_arko/blob/master/tensorflow_object_detection.ipynb)
 - [Number Plate Detection](https://github.com/oyyarko/object_detection_tensorflow2/blob/master/object_detection_2.ipynb )
-
-**Other Projects**
-- Canvas based board application
-- Live Streaming app using Agora SDK
-- Realtime chat messaging app using Agora SDK
 
 
 **Languages and Tools**
