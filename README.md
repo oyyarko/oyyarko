@@ -28,6 +28,7 @@ I am Arvina Kori. Currently i am a working as frontend developer with ReactJs te
 **Frontend Projects**
 - [Responsive Preview Card using React+Tailwind](https://blog-preview-card--lustrous-semifreddo-a42e47.netlify.app/)
 - [Login Page with Particles in Background](https://master--jolly-granita-5699cb.netlify.app/)
+- [Age Calculator with ReactJS, Tailwind, Yup, React-hook-form](https://agecalculator-frontendmentor.netlify.app/)
 - Canvas based board application
 - Live Streaming app using Agora SDK
 - Realtime chat messaging app using Agora SDK
