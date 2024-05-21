@@ -60,7 +60,7 @@ I am Arvina Kori. Currently i am a working as frontend developer with ReactJs te
 <code><img height="40" title="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="40" title="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-![Snake animation](https://github.com/oyyarko/oyyarko/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oyyarko/oyyarko/blob/master/github-contribution-grid-snake.svg)
 
 _Have a Nice day :rainbow:_
 <br />
