@@ -26,6 +26,7 @@
 I am Arvina Kori. Currently i am a working as frontend developer with ReactJs technology. Looking forward to learn more about full stack development. 
 
 **Frontend Projects**
+- [NextJS Project](https://nextjs-dashboard-tau-three-34.vercel.app/) -> route [/dashboard]
 - [Responsive Preview Card using React+Tailwind](https://blog-preview-card--lustrous-semifreddo-a42e47.netlify.app/)
 - [Login Page with Particles in Background](https://master--jolly-granita-5699cb.netlify.app/)
 - [Age Calculator with ReactJS, Tailwind, Yup, React-hook-form](https://agecalculator-frontendmentor.netlify.app/)
