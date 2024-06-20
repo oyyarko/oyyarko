@@ -5,7 +5,7 @@
 
 :rainbow: I’m currently learning **Backend Development** with **Node JS**, **MongoDB** and **RelationalDB**
 
-💬 Ask me about **React, Next, Tailwind** and **Memes**
+💬 Ask me about **React, Tailwind** and **Memes**
 
 📫 How to reach me **arvinakori7@gmail.com**
 
@@ -13,11 +13,14 @@
 
 ## 🥇 Frontend Projects:
 
+- [Kanban -Taskify](https://taskify-app-eight.vercel.app/) -> route [/dashboard, /login]
 - [NextJS Project](https://nextjs-dashboard-tau-three-34.vercel.app/) -> route [/dashboard]
 - [Responsive Preview Card using React+Tailwind](https://blog-preview-card--lustrous-semifreddo-a42e47.netlify.app/)
 - [Login Page with Particles in Background](https://master--jolly-granita-5699cb.netlify.app/)
+- [Earth Globe using Three.js](https://github.com/oyyarko/react-globe-project)
 - [Age Calculator with ReactJS, Tailwind, Yup, React-hook-form](https://agecalculator-frontendmentor.netlify.app/)
 - Canvas based board application
+- Cricket ticket booking app with MongoDB, Socket-io for realtime state
 - Live Streaming app using Agora SDK
 - Realtime chat messaging app using Agora SDK
 
@@ -43,6 +46,3 @@
 
 ### 🐍 That's how coders snacks:
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/oyyarko/oyyarko/output/github-contribution-grid-snake.svg" />
-
-### 😂 Random Dev Meme so you can laugh about your life:
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
