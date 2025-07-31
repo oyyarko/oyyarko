@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arvina Kori!</h1>
 
-## A passionate frontend developer from India 🇮🇳! Part time Poet, Cricket fan, and probably speeding around the city 🏍️ (vroooooom)
+## A passionate Fullstack developer from India 🇮🇳! Part time Poet, Cricket fan, and probably speeding around the city 🏍️ (vroooooom)
 
 
 :rainbow: I’m currently learning **Backend Development** with **Node JS**, **MongoDB** and **RelationalDB**
